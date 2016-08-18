@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("OvermindRsync")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("OECD")]
+[assembly: AssemblyCompany("Overmind")]
 [assembly: AssemblyProduct("OvermindRsync")]
-[assembly: AssemblyCopyright("Copyright © OECD 2013")]
+[assembly: AssemblyCopyright("Copyright © Overmind 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
