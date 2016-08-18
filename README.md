@@ -29,4 +29,6 @@ RsyncInterface.GenerateDelta(_signatureFilePath, _newFilePath, _deltaFilePath);
 
 //Patch old file into target file
 
-RsyncInterface.PatchFile(_oldFilePath, _deltaFilePath, _patchedFilePath)
+RsyncInterface.PatchFile(_oldFilePath, _deltaFilePath, _patchedFilePath);
+
+Also available in the NuGet repository.
