@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("OvermindRsync")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("The C Rsync library translated directly to C# and then refactored for the .Net framework")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Overmind")]
 [assembly: AssemblyProduct("OvermindRsync")]
