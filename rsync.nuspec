@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Rsync</id>
+    <version>$version$</version>
+    <title>Pure .Net Rsync</title>
+    <authors>Kenneth Skovhede, Pavel Ronin</authors>
+    <owners>Pavel Ronin</owners>
+    <licenseUrl>https://github.com/PalinRevno/Pure-.Net-Rsync/blob/master/license.md</licenseUrl>
+    <projectUrl>https://github.com/PalinRevno/Pure-.Net-Rsync</projectUrl>
+    <description>Terrarium provides a great way for developers to learn about the .NET programming model and language as they develop creatures and introduce them into a peer-to-peer ecosystem.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright &#x00A9; Kenneth Skovhede, Pavel Ronin.</copyright>
+    <tags>rsync dotnet C# diff</tags>
+  </metadata>
+  <files>
+	<file src="OvermindRsync\bin\$configuration$\OvermindRsync.dll" target="lib\net45\" />
+  </files>
+</package>
