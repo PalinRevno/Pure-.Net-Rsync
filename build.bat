@@ -16,4 +16,8 @@ if "%nuget%" == "" (
 	set nuget=nuget
 )
 
+mkdir Build
+mkdir Build\lib
+mkdir Build\lib\net40
+
 %nuget% pack "rsync.nuspec" -NoPackageAnalysis -verbosity detailed -o Build -Version %version% -p Configuration="%config%"
