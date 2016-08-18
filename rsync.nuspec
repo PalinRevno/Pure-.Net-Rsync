@@ -14,6 +14,6 @@
     <tags>rsync dotnet C# diff</tags>
   </metadata>
   <files>
-	<file src="OvermindRsync\bin\$configuration$\OvermindRsync.dll" target="lib\net45\" />
+	<file src="\bin\$configuration$\OvermindRsync.dll" target="lib\net45\" />
   </files>
 </package>
